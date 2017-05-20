@@ -1,0 +1,23 @@
+# Uncomment this line to define a global platform for your project
+# platform :ios, '9.0'
+
+target 'DoorbiTaxi Driver' do
+  # Comment this line if you're not using Swift and don't want to use dynamic frameworks
+  use_frameworks!
+
+  # Pods for DoorbiTaxi Driver
+
+ pod 'GoogleMaps'
+pod 'Alamofire'
+pod ’SwiftyJSON’
+pod 'AlamofireImage', '~> 2.0'
+pod 'KVNProgress'
+pod ‘StarryStars’
+pod 'ImageSlideshow’
+pod ‘DropDown’
+pod 'IQKeyboardManagerSwift'
+ pod 'Fabric'
+ pod 'Crashlytics'
+pod 'Firebase/Database'
+
+end
