@@ -1,0 +1,488 @@
+
+/* Class = "UILabel"; text = "View Card"; ObjectID = "0Qp-I7-HMd"; */
+"0Qp-I7-HMd.text" = "مشاهدة بطاقة";
+
+/* Class = "UILabel"; text = "USE COUPON"; ObjectID = "0VP-Pl-sCf"; */
+"0VP-Pl-sCf.text" = "استخدام القسيمة";
+
+/* Class = "UILabel"; text = "Your Rides"; ObjectID = "15N-Br-5CG"; */
+"15N-Br-5CG.text" = "ركوب الخيل الخاص بك";
+
+/* Class = "UILabel"; text = "RIDE ESTIMATE"; ObjectID = "1Ni-7o-wcd"; */
+"1Ni-7o-wcd.text" = "ركوب ESTIMATE";
+
+/* Class = "UILabel"; text = "Apply Coupon"; ObjectID = "2IM-MQ-MWS"; */
+"2IM-MQ-MWS.text" = "تطبيق القسيمة";
+
+/* Class = "UITextField"; placeholder = "CITY"; ObjectID = "2T7-WF-qJe"; */
+"2T7-WF-qJe.placeholder" = "مدينة";
+
+/* Class = "UITextField"; placeholder = "Email Id"; ObjectID = "2xB-9g-lFQ"; */
+"2xB-9g-lFQ.placeholder" = "عنوان الايميل";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "3QN-er-vIn"; */
+"3QN-er-vIn.placeholder" = "كلمه السر";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "3cT-3l-WOZ"; */
+"3cT-3l-WOZ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Airport rates may differ. Peak time charges may apply. Service tax extra."; ObjectID = "4PK-WX-5ag"; */
+"4PK-WX-5ag.text" = "قد تختلف معدلات المطار. قد يتم تطبيق رسوم على وقت الذروة. ضريبة خدمة إضافية.";
+
+/* Class = "UILabel"; text = " USE COUPON"; ObjectID = "57i-Re-Xfg"; */
+"57i-Re-Xfg.text" = " استخدام القسيمة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "5YP-4v-mTp"; */
+"5YP-4v-mTp.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5qu-AQ-VMW"; */
+"5qu-AQ-VMW.text" = "Label";
+
+/* Class = "UILabel"; text = "    SUPPORT"; ObjectID = "7pg-xS-SQ6"; */
+"7pg-xS-SQ6.text" = "    الدعم";
+
+/* Class = "UILabel"; text = "Bill Details"; ObjectID = "8gc-0h-68Y"; */
+"8gc-0h-68Y.text" = "بيل تفاصيل";
+
+/* Class = "UILabel"; text = "    SUPPORT"; ObjectID = "8s4-mS-tBo"; */
+"8s4-mS-tBo.text" = "    الدعم";
+
+/* Class = "UITextField"; placeholder = "                 Enter Coupon Code"; ObjectID = "9nB-NG-cEt"; */
+"9nB-NG-cEt.placeholder" = "                أدخل رمز القسيمة";
+
+/* Class = "UILabel"; text = "By Cash"; ObjectID = "AAD-Ra-8UW"; */
+"AAD-Ra-8UW.text" = "نقدا";
+
+/* Class = "UILabel"; text = " CAR TYPE"; ObjectID = "Asx-1P-MGY"; */
+"Asx-1P-MGY.text" = " نوع السيارة";
+
+/* Class = "UILabel"; text = "Pick Up Location"; ObjectID = "Ba2-Cy-cX8"; */
+"Ba2-Cy-cX8.text" = "اختر موقعا";
+
+/* Class = "UILabel"; text = "   SUPPORT"; ObjectID = "BeL-Sp-rGt"; */
+"BeL-Sp-rGt.text" = "   الدعم";
+
+/* Class = "UITextField"; placeholder = "Email address (Required)"; ObjectID = "C0t-E4-BnH"; */
+"C0t-E4-BnH.placeholder" = "عنوان البريد الإلكتروني: (مطلوب)
+";
+
+/* Class = "UILabel"; text = "TaxiUser"; ObjectID = "C3d-ey-I2x"; */
+"C3d-ey-I2x.text" = "TaxiUser";
+
+/* Class = "UITextField"; placeholder = "Old Password"; ObjectID = "C3o-7g-YaG"; */
+"C3o-7g-YaG.placeholder" = "كلمة المرور القديمة";
+
+/* Class = "UILabel"; text = "CHANGE PASSWORD"; ObjectID = "C6b-t6-QJu"; */
+"C6b-t6-QJu.text" = "تغيير كلمة السر";
+
+/* Class = "UILabel"; text = "Forgot Password"; ObjectID = "CTX-cd-KOx"; */
+"CTX-cd-KOx.text" = "هل نسيت كلمة المرور";
+
+/* Class = "UILabel"; text = "CREATE YOUR ACCOUNT"; ObjectID = "CXg-2f-ZT8"; */
+"CXg-2f-ZT8.text" = "أنشئ حسابك";
+
+/* Class = "UIButton"; normalTitle = "CONFIRM"; ObjectID = "Cyn-hj-cr6"; */
+"Cyn-hj-cr6.normalTitle" = "تؤكد";
+
+/* Class = "UILabel"; text = "VERIFY MOBILE NUMBER"; ObjectID = "D9G-aO-kH5"; */
+"D9G-aO-kH5.text" = "التحقق من رقم جوال";
+
+/* Class = "UIButton"; normalTitle = "RIDE LATER"; ObjectID = "Day-ea-vwc"; */
+"Day-ea-vwc.normalTitle" = "ركوب لاحقا";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "EBl-8W-RkT"; */
+"EBl-8W-RkT.normalTitle" = "فعله";
+
+/* Class = "UILabel"; text = "Total Payable Amount"; ObjectID = "ELH-Wd-fcY"; */
+"ELH-Wd-fcY.text" = "المبلغ الكلي المستحق";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "F8t-cn-1Uo"; */
+"F8t-cn-1Uo.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "Ff6-7y-fgz"; */
+"Ff6-7y-fgz.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UIButton"; normalTitle = "Submit"; ObjectID = "Fun-c1-AQ9"; */
+"Fun-c1-AQ9.normalTitle" = "عرض";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "G33-pl-GCt"; */
+"G33-pl-GCt.normalTitle" = "حسنا";
+
+/* Class = "UITextField"; placeholder = "Mobile Number (Required)"; ObjectID = "GUr-jc-RNi"; */
+"GUr-jc-RNi.placeholder" = "رقم الجوال (مطلوب)";
+
+/* Class = "UILabel"; text = "Select Reason"; ObjectID = "Gae-4s-rgA"; */
+"Gae-4s-rgA.text" = "حدد السبب";
+
+/* Class = "UILabel"; text = "PAYMENT TYPE :"; ObjectID = "Gbs-zQ-Lzk"; */
+"Gbs-zQ-Lzk.text" = "نوع الدفع :";
+
+/* Class = "UILabel"; text = "LOGIN TO TaxiUser"; ObjectID = "Gfb-PI-TGB"; */
+"Gfb-PI-TGB.text" = "تسجيل الدخول إلى TaxiUser";
+
+/* Class = "UILabel"; text = "DATE :"; ObjectID = "HRz-vB-RTa"; */
+"HRz-vB-RTa.text" = "تاريخ :";
+
+/* Class = "UILabel"; text = "TRACK RIDE"; ObjectID = "Hhv-ge-NKZ"; */
+"Hhv-ge-NKZ.text" = "المسار ركوب";
+
+/* Class = "UITextField"; placeholder = "Enter Phone Number"; ObjectID = "Hpa-3g-m11"; */
+"Hpa-3g-m11.placeholder" = "أدخل رقم الهاتف";
+
+/* Class = "UILabel"; text = "FLAT RATE"; ObjectID = "IEh-3v-z7P"; */
+"IEh-3v-z7P.text" = "معدل";
+
+/* Class = "UINavigationItem"; title = "TaxiUser"; ObjectID = "Ifs-L9-OaC"; */
+"Ifs-L9-OaC.title" = "TaxiUser";
+
+/* Class = "UILabel"; text = "EMAIL ID"; ObjectID = "IuD-o7-LAk"; */
+"IuD-o7-LAk.text" = "عنوان الايميل";
+
+/* Class = "UITextField"; placeholder = "CAR TYPE"; ObjectID = "JUd-mh-2v6"; */
+"JUd-mh-2v6.placeholder" = "نوع السيارة";
+
+/* Class = "UILabel"; text = "Pick a time"; ObjectID = "JrK-r1-OVK"; */
+"JrK-r1-OVK.text" = "اختيار الوقت";
+
+/* Class = "UIButton"; normalTitle = "Add New Card"; ObjectID = "KIK-3C-qOO"; */
+"KIK-3C-qOO.normalTitle" = "إضافة بطاقة جديدة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "L0M-C0-VlK"; */
+"L0M-C0-VlK.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = " SUV"; ObjectID = "LPf-QB-XeT"; */
+"LPf-QB-XeT.text" = " سيارات الدفع الرباعي";
+
+/* Class = "UILabel"; text = "PICKUP"; ObjectID = "Lgb-B8-91h"; */
+"Lgb-B8-91h.text" = "امسك";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "MTr-An-2db"; */
+"MTr-An-2db.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter OTP"; ObjectID = "MjN-aw-3v2"; */
+"MjN-aw-3v2.placeholder" = "أدخل مكتب المدعي العام";
+
+/* Class = "UIButton"; normalTitle = "Forgot/Create Password"; ObjectID = "NOA-kw-737"; */
+"NOA-kw-737.normalTitle" = "نسيت / إنشاء كلمة المرور";
+
+/* Class = "UILabel"; text = "NAME"; ObjectID = "NdI-O0-q6y"; */
+"NdI-O0-q6y.text" = "اسم";
+
+/* Class = "UILabel"; text = "  CITY"; ObjectID = "Ohv-2K-Tj7"; */
+"Ohv-2K-Tj7.text" = "  مدينة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "P3N-Om-60s"; */
+"P3N-Om-60s.normalTitle" = "Button";
+
+/* Class = "UIButton"; normalTitle = "FACEBOOK"; ObjectID = "Pdn-8u-HO4"; */
+"Pdn-8u-HO4.normalTitle" = "FACEBOOK";
+
+/* Class = "UILabel"; text = "   SUPPORT"; ObjectID = "Pj6-3l-nIx"; */
+"Pj6-3l-nIx.text" = "   الدعم";
+
+/* Class = "UILabel"; text = "PAYMENT ID :"; ObjectID = "QdB-XI-Ric"; */
+"QdB-XI-Ric.text" = "معرف دفع:";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "RKr-5c-vbj"; */
+"RKr-5c-vbj.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Cancel Ride"; ObjectID = "ROH-rb-xKm"; */
+"ROH-rb-xKm.normalTitle" = "إلغاء جولة";
+
+/* Class = "UITextField"; placeholder = "Confirm Password "; ObjectID = "Rvc-aY-kAB"; */
+"Rvc-aY-kAB.placeholder" = "تأكيد كلمة المرور ";
+
+/* Class = "UILabel"; text = "Set up Payment"; ObjectID = "SE8-h8-BzN"; */
+"SE8-h8-BzN.text" = "انشاء الدفع";
+
+/* Class = "UITextField"; placeholder = "Enter Drop Location"; ObjectID = "T4x-hQ-VuT"; */
+"T4x-hQ-VuT.placeholder" = "أدخل قطرة الموقع";
+
+/* Class = "UIButton"; normalTitle = "LOG OUT"; ObjectID = "TmO-Y6-hsY"; */
+"TmO-Y6-hsY.normalTitle" = "الخروج";
+
+/* Class = "UILabel"; text = "YOUR RECEIPT"; ObjectID = "UFM-an-qWn"; */
+"UFM-an-qWn.text" = "ايصالك";
+
+/* Class = "UILabel"; text = "After 2 Km"; ObjectID = "Ub1-8s-dkZ"; */
+"Ub1-8s-dkZ.text" = "بعد 2 كم.";
+
+/* Class = "UILabel"; text = "Pick a date"; ObjectID = "UtO-U8-eOM"; */
+"UtO-U8-eOM.text" = "اختيار التاريخ";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "VDC-oY-deJ"; */
+"VDC-oY-deJ.normalTitle" = "إلغاء";
+
+/* Class = "UITextField"; placeholder = "Confirm Password"; ObjectID = "WCo-hA-MTC"; */
+"WCo-hA-MTC.placeholder" = "تأكيد كلمة المرور";
+
+/* Class = "UILabel"; text = " Waiting Time Charges:"; ObjectID = "WEU-Lz-8OD"; */
+"WEU-Lz-8OD.text" = " رسوم الانتظار الوقت:";
+
+/* Class = "UILabel"; text = "    SUPPORT"; ObjectID = "WZ0-eO-6X9"; */
+"WZ0-eO-6X9.text" = "    الدعم";
+
+/* Class = "UILabel"; text = "  First 2 Km"; ObjectID = "Wh9-m5-w3Q"; */
+"Wh9-m5-w3Q.text" = "  الأول 2 كم";
+
+/* Class = "UIButton"; normalTitle = "View Invoice"; ObjectID = "WuU-jf-H4R"; */
+"WuU-jf-H4R.normalTitle" = "عرض الفاتورة";
+
+/* Class = "UILabel"; text = "Rate Your Ride"; ObjectID = "X4O-Gl-H19"; */
+"X4O-Gl-H19.text" = "معدل رحلتك";
+
+/* Class = "UILabel"; text = "PAYMENT STATUS :"; ObjectID = "XSf-DU-TWB"; */
+"XSf-DU-TWB.text" = "حالة السداد :";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "XtU-DM-9FT"; */
+"XtU-DM-9FT.placeholder" = "اسم";
+
+/* Class = "UITextField"; placeholder = "New Password"; ObjectID = "XxD-sl-XFe"; */
+"XxD-sl-XFe.placeholder" = "كلمة السر الجديدة";
+
+/* Class = "UIButton"; normalTitle = "Resend OTP"; ObjectID = "Y2T-84-beO"; */
+"Y2T-84-beO.normalTitle" = "إعادة إرسال مكتب المدعي العام";
+
+/* Class = "UILabel"; text = "    Track Ride"; ObjectID = "YT3-SP-YMC"; */
+"YT3-SP-YMC.text" = "    المسار ركوب";
+
+/* Class = "UIButton"; normalTitle = "Please Rate Your Ride"; ObjectID = "Z6C-xP-zHP"; */
+"Z6C-xP-zHP.normalTitle" = "يرجى تقييم رحلتك";
+
+/* Class = "UILabel"; text = "garg"; ObjectID = "adK-vb-1VO"; */
+"adK-vb-1VO.text" = "garg";
+
+/* Class = "UILabel"; text = "Select Payment Option"; ObjectID = "af3-9v-kKp"; */
+"af3-9v-kKp.text" = "حدد خيار الدفع";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bA4-L2-JEy"; */
+"bA4-L2-JEy.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Sign In/SignUp with Social Media"; ObjectID = "bC0-Ft-UuQ"; */
+"bC0-Ft-UuQ.text" = "تسجيل الدخول / سنوب مع وسائل الاعلام الاجتماعية";
+
+/* Class = "UIButton"; normalTitle = "Call Driver"; ObjectID = "bQA-o7-EQf"; */
+"bQA-o7-EQf.normalTitle" = "سائق تحت الطلب";
+
+/* Class = "UIButton"; normalTitle = "Cancel"; ObjectID = "bQB-og-iBB"; */
+"bQB-og-iBB.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Getting Location.."; ObjectID = "c5z-aU-0pz"; */
+"c5z-aU-0pz.text" = "الحصول على الموقع ..";
+
+/* Class = "UILabel"; text = "DROP"; ObjectID = "cTY-x0-3u0"; */
+"cTY-x0-3u0.text" = "قطرة";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "cgc-2J-nPc"; */
+"cgc-2J-nPc.text" = "Label";
+
+/* Class = "UILabel"; text = "Card Details"; ObjectID = "cie-IQ-VA2"; */
+"cie-IQ-VA2.text" = "معلومات البطاقة";
+
+/* Class = "UILabel"; text = "Your Account"; ObjectID = "dh8-ko-Mjk"; */
+"dh8-ko-Mjk.text" = "الحساب الخاص بك";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "dqa-ha-3Ir"; */
+"dqa-ha-3Ir.normalTitle" = "فعله";
+
+/* Class = "UILabel"; text = "Please provide your Mobile Nmber to Login/SignUp on TaxiUser"; ObjectID = "e1q-4M-DkO"; */
+"e1q-4M-DkO.text" = "يرجى تقديم رقم الموبايل لدخول / تسجيل على TaxiUser";
+
+/* Class = "UILabel"; text = "Credit Card"; ObjectID = "eAl-Bq-jJt"; */
+"eAl-Bq-jJt.text" = "بطاقة ائتمان";
+
+/* Class = "UILabel"; text = "RIDE ESTIMATE"; ObjectID = "eQ5-i4-Wd7"; */
+"eQ5-i4-Wd7.text" = "ركوب ESTIMATE";
+
+/* Class = "UIButton"; normalTitle = "Select Drop Location"; ObjectID = "eSi-G5-VhW"; */
+"eSi-G5-VhW.normalTitle" = "اختر قطرة الموقع";
+
+/* Class = "UILabel"; text = "Please Enter Verification Code "; ObjectID = "eUf-GJ-qsh"; */
+"eUf-GJ-qsh.text" = "الرجاء إدخال رمز التحقق ";
+
+/* Class = "UILabel"; text = " Ride Time Charges:"; ObjectID = "f55-fw-UaQ"; */
+"f55-fw-UaQ.text" = " رسوم ركوب الوقت:";
+
+/* Class = "UITextField"; placeholder = "Enter Mobile Number"; ObjectID = "fW1-HK-irs"; */
+"fW1-HK-irs.placeholder" = "أدخل رقم الجوال";
+
+/* Class = "UIButton"; normalTitle = "Don't Cancel"; ObjectID = "fXP-I4-3r2"; */
+"fXP-I4-3r2.normalTitle" = "لا الغاء";
+
+/* Class = "UIButton"; normalTitle = "Apply"; ObjectID = "feR-9U-vov"; */
+"feR-9U-vov.normalTitle" = "تطبيق";
+
+/* Class = "UILabel"; text = "   Track Ride"; ObjectID = "g37-UQ-T0K"; */
+"g37-UQ-T0K.text" = "   المسار ركوب";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "g9q-fd-KRn"; */
+"g9q-fd-KRn.normalTitle" = "فعله";
+
+/* Class = "UIButton"; normalTitle = "Done"; ObjectID = "gda-82-WOR"; */
+"gda-82-WOR.normalTitle" = "فعله";
+
+/* Class = "UILabel"; text = "USE COUPON"; ObjectID = "grh-Bv-xOK"; */
+"grh-Bv-xOK.text" = "استخدام القسيمة";
+
+/* Class = "UILabel"; text = "Invoice"; ObjectID = "h2x-4w-obr"; */
+"h2x-4w-obr.text" = "فاتورة";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "hcb-Cs-qlt"; */
+"hcb-Cs-qlt.text" = "البنود و الظروف";
+
+/* Class = "UIButton"; normalTitle = "OK"; ObjectID = "hcv-gh-ZKY"; */
+"hcv-gh-ZKY.normalTitle" = "حسنا";
+
+/* Class = "UILabel"; text = "ORDER ID :"; ObjectID = "i25-b2-bCt"; */
+"i25-b2-bCt.text" = "رقم التعريف الخاص بالطلب :";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "iT8-ec-xqx"; */
+"iT8-ec-xqx.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Fare Breakup"; ObjectID = "iec-cv-fqv"; */
+"iec-cv-fqv.text" = "أجرة تفكك";
+
+/* Class = "UIButton"; normalTitle = "RIDE NOW"; ObjectID = "iyp-Y7-tzV"; */
+"iyp-Y7-tzV.normalTitle" = "اركب الآن";
+
+/* Class = "UITextField"; placeholder = "Password More then 6 Letters "; ObjectID = "jIs-mX-KOQ"; */
+"jIs-mX-KOQ.placeholder" = "كلمة ميسور 6 رسائل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "jVx-Rk-4Bk"; */
+"jVx-Rk-4Bk.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Enter OTP"; ObjectID = "jbF-aB-GQk"; */
+"jbF-aB-GQk.placeholder" = "أدخل مكتب المدعي العام";
+
+/* Class = "UILabel"; text = "Wait Charge"; ObjectID = "klv-ly-mx1"; */
+"klv-ly-mx1.text" = "انتظر المسؤول";
+
+/* Class = "UITextField"; placeholder = "Enter Password"; ObjectID = "lOw-k2-Kg4"; */
+"lOw-k2-Kg4.placeholder" = "أدخل كلمة المرور";
+
+/* Class = "UILabel"; text = "USE COUPON"; ObjectID = "ldl-LF-Z3m"; */
+"ldl-LF-Z3m.text" = "استخدام القسيمة
+";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "lrK-xd-XXD"; */
+"lrK-xd-XXD.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "MOBILE NUMBER"; ObjectID = "lwR-i3-9Vm"; */
+"lwR-i3-9Vm.text" = "رقم الهاتف المحمول";
+
+/* Class = "UIButton"; normalTitle = "DONE"; ObjectID = "n7z-Wp-4Ub"; */
+"n7z-Wp-4Ub.normalTitle" = "فعله";
+
+/* Class = "UITextField"; placeholder = " Password More than 6 Letters"; ObjectID = "nOr-He-lfR"; */
+"nOr-He-lfR.placeholder" = " كلمة المرور أكثر من 6 رسائل";
+
+/* Class = "UILabel"; text = "Select Payment Option"; ObjectID = "o7s-UP-knR"; */
+"o7s-UP-knR.text" = "حدد خيار الدفع";
+
+/* Class = "UILabel"; text = "USE COUPON"; ObjectID = "oSV-uX-ehq"; */
+"oSV-uX-ehq.text" = "استخدام القسيمة";
+
+/* Class = "UILabel"; text = "Enter Mobile Number"; ObjectID = "ofw-lZ-qcn"; */
+"ofw-lZ-qcn.text" = "أدخل رقم الجوال";
+
+/* Class = "UILabel"; text = " Ride Distance Charges:"; ObjectID = "olD-9V-BfY"; */
+"olD-9V-BfY.text" = " ركوب رسوم القطر:";
+
+/* Class = "UILabel"; text = "Saturday,Jan 28, 09:49 PM"; ObjectID = "oqT-Ib-VFP"; */
+"oqT-Ib-VFP.text" = "Saturday,Jan 28, 09:49 PM";
+
+/* Class = "UILabel"; text = "   Cancel Ride"; ObjectID = "p9W-fe-0JY"; */
+"p9W-fe-0JY.text" = "   إلغاء جولة";
+
+/* Class = "UIButton"; normalTitle = "CANCEL"; ObjectID = "pMr-Ka-co0"; */
+"pMr-Ka-co0.normalTitle" = "إلغاء";
+
+/* Class = "UILabel"; text = "Enter Your Mobile Number To Upgrade Your Account With TaxiUser"; ObjectID = "pcX-up-k9x"; */
+"pcX-up-k9x.text" = "أدخل رقم هاتفك الجوال لترقية حسابك مع TaxiUser";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "pdL-1M-2AV"; */
+"pdL-1M-2AV.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "CONTINUE"; ObjectID = "psm-c1-tL2"; */
+"psm-c1-tL2.normalTitle" = "استمر";
+
+/* Class = "UILabel"; text = "PAYMENT AMOUNT :"; ObjectID = "q6A-oT-JcM"; */
+"q6A-oT-JcM.text" = "دفع القيمة:";
+
+/* Class = "UILabel"; text = "   Cancel Ride"; ObjectID = "qbq-K4-fhp"; */
+"qbq-K4-fhp.text" = "   إلغاء جولة";
+
+/* Class = "UILabel"; text = "Display Date and Time"; ObjectID = "rVp-EP-fCe"; */
+"rVp-EP-fCe.text" = "عرض التاريخ والوقت";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "rbZ-Qf-WBh"; */
+"rbZ-Qf-WBh.placeholder" = "رقم الهاتف المحمول";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "rdu-Sf-Ect"; */
+"rdu-Sf-Ect.normalTitle" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "Register"; ObjectID = "rfe-qC-aKp"; */
+"rfe-qC-aKp.normalTitle" = "تسجيل";
+
+/* Class = "UILabel"; text = "PASSWORD"; ObjectID = "sID-qd-yBP"; */
+"sID-qd-yBP.text" = "كلمه السر";
+
+/* Class = "UITextField"; placeholder = "Enter Username (Required)"; ObjectID = "sc7-yt-JTt"; */
+"sc7-yt-JTt.placeholder" = "أدخل اسم المستخدم (مطلوب)";
+
+/* Class = "UILabel"; text = "Drop Location"; ObjectID = "syy-2n-nuK"; */
+"syy-2n-nuK.text" = "قطرة الموقع";
+
+/* Class = "UINavigationItem"; title = "Taxi App"; ObjectID = "tOh-6c-ks4"; */
+"tOh-6c-ks4.title" = "Taxi App";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "tcV-uW-qGL"; */
+"tcV-uW-qGL.text" = "Label";
+
+/* Class = "UILabel"; text = "hello@gmail.com"; ObjectID = "udq-zy-S2X"; */
+"udq-zy-S2X.text" = "hello@gmail.com";
+
+/* Class = "UILabel"; text = "RATE CARD"; ObjectID = "v1m-L9-P5V"; */
+"v1m-L9-P5V.text" = "سعر البطاقة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "vn5-DU-NSl"; */
+"vn5-DU-NSl.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vvZ-Le-IqB"; */
+"vvZ-Le-IqB.text" = "Label";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "vzJ-pY-REa"; */
+"vzJ-pY-REa.text" = "Label";
+
+/* Class = "UILabel"; text = "COUPONS"; ObjectID = "w8p-ih-LeR"; */
+"w8p-ih-LeR.text" = "COUPONS";
+
+/* Class = "UILabel"; text = "By Paypal"; ObjectID = "x1N-vv-Q6S"; */
+"x1N-vv-Q6S.text" = "بواسطة باي بال";
+
+/* Class = "UIButton"; normalTitle = "Make Payment"; ObjectID = "xFW-5B-reu"; */
+"xFW-5B-reu.normalTitle" = "قم بالدفع";
+
+/* Class = "UILabel"; text = "Total Fare"; ObjectID = "xOp-wN-Hda"; */
+"xOp-wN-Hda.text" = "أجرة الكلية";
+
+/* Class = "UIButton"; normalTitle = "GOOGLE"; ObjectID = "xPv-0e-5pM"; */
+"xPv-0e-5pM.normalTitle" = "GOOGLE";
+
+/* Class = "UIButton"; normalTitle = "LOGIN"; ObjectID = "yFz-UR-7Mx"; */
+"yFz-UR-7Mx.normalTitle" = "تسجيل الدخول";
+
+/* Class = "UILabel"; text = "ABOUT US"; ObjectID = "yGC-MZ-dt7"; */
+"yGC-MZ-dt7.text" = "معلومات عنا";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "yXN-qt-rFS"; */
+"yXN-qt-rFS.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Enter Phone Number"; ObjectID = "zCd-QF-esL"; */
+"zCd-QF-esL.placeholder" = "أدخل رقم الهاتف";
+
+/* Class = "UILabel"; text = "lplplpl"; ObjectID = "zGl-Rd-DXC"; */
+"zGl-Rd-DXC.text" = "lplplpl";
+
+/* Class = "UILabel"; text = "MAIL INVOICE"; ObjectID = "zom-ZC-ZuO"; */
+"zom-ZC-ZuO.text" = "MAIL فاتورة";
